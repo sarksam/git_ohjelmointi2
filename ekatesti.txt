@@ -1,1 +1,2 @@
 Testataan Gitin ja GitHubin toimintaa. (21042021)
+Ja näyttää toimivan ihan ok kaikki.
